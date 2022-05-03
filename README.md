@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá ! Eu sou IanCarvalho21
 
-<!--
-**IanCarvalho21/IanCarvalho21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante de Análise e desenvolvimento de sistemas
+- 🌱 Estudando Javascript 
+- 😄 Pronouns: Ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/IanCarvalho21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanCarvalho21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCarvalho21&layout=compact&langs_count=7&theme=github_dark"/>  
+</div> <br>
+	
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ian-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ian-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">                                                                                                                                                     
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href = "https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ian-carvalho-5958821a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+  ![Snake animation](https://github.com/IanCarvalho21/blob/output/github-contribution-grid-snake.svg)
